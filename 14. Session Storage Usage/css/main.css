@@ -1,0 +1,13 @@
+#leftbox, #rightbox {
+    float: left;
+    margin: 50px;
+    border: 5px solid red;
+    min-width: 20rem;
+    max-width: 20rem;
+    min-height: 18rem;
+    padding: 20px;
+}
+
+#rightbox {
+    border-color: blue;
+}
